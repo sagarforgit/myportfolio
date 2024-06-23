@@ -222,7 +222,7 @@
         border:none;
     }
     #languages h3,#databases h3,#others h3{
-        font-size:23px;
+        font-size:20px;
         color:rgb(191, 80, 80);
         padding-left:35px;
         padding-top:25px;
@@ -231,6 +231,7 @@
         height:100vh;
     }
     #page5 p{
+        font-size:13px;
         font-weight:550;
         padding-left:35px;
         padding-right:10px;
